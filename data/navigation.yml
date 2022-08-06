@@ -1,0 +1,8 @@
+- name: The Recipe
+  link: /recipe/
+- name: Courses
+  link: /courses/
+- name: Contact
+  link: /contact/
+- name: Resources
+  link: /resources/
